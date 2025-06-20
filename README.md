@@ -4,9 +4,8 @@
 > Repository for projects developed during my internship at Compass UOL
 
 
-### Cursos em desenvolvimetno
+### Courses in development
 
-Ainda estão em desenvolvimento:
 
 - [x] git-e-git-hub
 
